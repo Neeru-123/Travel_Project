@@ -19,3 +19,6 @@ y = x['results']
 
 for i in range(len(y)):
     print(y[i]['name'])
+    
+for x in range(len(y)):
+    print(y[x]['location']
